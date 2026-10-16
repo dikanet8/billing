@@ -10,6 +10,9 @@
     "license": "MIT",
     "require": {
         "php": "^8.3",
+        "ext-gd": "*",
+        "ext-sockets": "*",
+        "ext-zip": "*",
         "barryvdh/laravel-dompdf": "^3.1",
         "evilfreelancer/routeros-api-php": "^1.7",
         "freedsx/snmp": "^0.5.3",
