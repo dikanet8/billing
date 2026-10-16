@@ -1,0 +1,22 @@
+{
+  "name": "Jaringan Rakyat",
+  "short_name": "Jaringan Rakyat",
+  "description": "Aplikasi manajemen pelanggan dan tagihan internet.",
+  "start_url": "/dashboard",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/logo.jpg",
+      "sizes": "192x192 512x512 any",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/logo.jpg",
+      "sizes": "180x180",
+      "type": "image/jpeg"
+    }
+  ]
+}
